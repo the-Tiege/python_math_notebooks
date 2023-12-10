@@ -14,13 +14,13 @@ Explore calculus concepts, including derivatives, integrals, and more. The noteb
 
 Dive into linear algebra with this notebook, covering topics such as vectors, matrices, eigenvalues, and eigenvectors. Clear explanations and practical examples make complex linear algebra concepts accessible.
 
-[View Linear Algebra Notebook](linear_algebra.ipynb)
+[View Linear Algebra Notebook](https://github.com/the-Tiege/python_math_notebooks/tree/main/linear_algebra)
 
 ### Probability
 
 The probability notebook introduces basic concepts of probability theory, including probability distributions, random variables, and statistical measures. Engage with examples and exercises to enhance your grasp of probability.
 
-[View Probability Notebook](probability.ipynb)
+[View Probability Notebook](https://github.com/the-Tiege/python_math_notebooks/tree/main/probability)
 
 ## Getting Started
 
