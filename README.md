@@ -8,7 +8,7 @@ Welcome to the Mathematics Notebooks repository! This collection includes intera
 
 Explore calculus concepts, including derivatives, integrals, and more. The notebook provides explanations, examples, and exercises to reinforce your understanding of calculus.
 
-[View Calculus Notebook](calculus.ipynb)
+[View Calculus Notebook](https://github.com/the-Tiege/python_math_notebooks/blob/main/calculus/derivatives.ipynb)
 
 ### Linear Algebra
 
